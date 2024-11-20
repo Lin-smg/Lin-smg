@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ye Lin Phyo
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Mobile and Web Development
+- 🌱 I’m currently working as a Full Stack Developer
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
